@@ -1,0 +1,8 @@
+
+Finish this tutorial; please do it thoroughly:
+
+http://www.tangowithdjango.com/
+
+All the code you write should be put up on github.
+
+
